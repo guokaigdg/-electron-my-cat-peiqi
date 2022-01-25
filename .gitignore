@@ -2,6 +2,7 @@
 build/
 dist/
 output/
+out/
 # yarn.lock
 # package-lock.json
 
